@@ -1,0 +1,18 @@
+h1{
+    color: #e8f83c;
+    background-color: #bbb5df;
+    text-align: center;
+}
+p{
+    font-variant: normal;
+    background-color: #ff00bf;
+}
+h2{
+    line-height: 100%;
+    font-variant: small-caps;
+    background-color:#e9967a ;
+    color: #f0f8ff;
+}
+p{
+    text-align: justify;
+}
